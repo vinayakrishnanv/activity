@@ -1,0 +1,15 @@
+/autoload.php
+/config.php
+/constants.php
+/database.php
+/doctypes.php
+/foreign_chars.php
+/hooks.php
+/index.html
+/memcached.php
+/migration.php
+/mimes.php
+/profiler.php
+/routes.php
+/smileys.php
+/user_agents.php
